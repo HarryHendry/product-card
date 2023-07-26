@@ -85,6 +85,10 @@ button {
     
 }
 
+button:hover {
+    background-color:  hsl(157, 36%, 45%);
+}
+
 svg {
     margin-right: 1rem;
 }
